@@ -8,6 +8,7 @@ Ideas for future projects
 - [Personal Capital](https://github.com/haochi/personalcapital) dashboard for [Magic Mirror](https://github.com/MichMich/MagicMirror)
 - Device to change songs on Spotify in car
 - Code generator for integration tests of jpa repositories
+    - Intellij [plugin?](https://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/creating_plugin_project.html)
 - News aggregator for topics
 - Stream videos from browser to separate device
 - Better way to track Minneapolis transit [(maybe useful api)](https://svc.metrotransit.org/nextrip)
