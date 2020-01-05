@@ -12,6 +12,7 @@ Ideas for future projects
 - News aggregator for topics
 - Stream videos from browser to separate device
 - Better way to track Minneapolis transit [(maybe useful api)](https://svc.metrotransit.org/nextrip)
+- Procedurally generate dungeon maps
 
 ## Links
 - [Public API list](https://github.com/public-apis/public-apis)
