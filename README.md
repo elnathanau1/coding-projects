@@ -14,6 +14,7 @@ Ideas for future projects
 - Better way to track Minneapolis transit [(maybe useful api)](https://svc.metrotransit.org/nextrip)
 - Procedurally generate dungeon maps
 - Password rotator (maybe just automating bringing up sites and then waiting for user input?)
+    - Activate on either scheduler or based off [haveibeenpwned](https://haveibeenpwned.com/API/v3)
 
 ## Links
 - [Public API list](https://github.com/public-apis/public-apis)
