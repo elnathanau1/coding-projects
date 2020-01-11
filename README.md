@@ -16,6 +16,7 @@ Ideas for future projects
 - Password rotator (maybe just automating bringing up sites and then waiting for user input?)
     - Activate on either scheduler or based off [haveibeenpwned](https://haveibeenpwned.com/API/v3)
 - Notification app for [Basketball Monster Fantasy Basketball News](https://basketballmonster.com/playernews.aspx)
+- Set up Grafana/Influx/Prometheus for home
 
 ## Links
 - [Public API list](https://github.com/public-apis/public-apis)
