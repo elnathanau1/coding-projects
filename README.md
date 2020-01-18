@@ -17,6 +17,7 @@ Ideas for future projects
     - Activate on either scheduler or based off [haveibeenpwned](https://haveibeenpwned.com/API/v3)
 - Notification app for [Basketball Monster Fantasy Basketball News](https://basketballmonster.com/playernews.aspx)
 - Set up Grafana/Influx/Prometheus for home
+- Phone app to split restaurant bill
 
 ## Links
 - [Public API list](https://github.com/public-apis/public-apis)
