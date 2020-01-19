@@ -18,6 +18,7 @@ Ideas for future projects
 - Notification app for [Basketball Monster Fantasy Basketball News](https://basketballmonster.com/playernews.aspx)
 - Set up Grafana/Influx/Prometheus for home
 - Phone app to split restaurant bill
+- Art generator
 
 ## Links
 - [Public API list](https://github.com/public-apis/public-apis)
